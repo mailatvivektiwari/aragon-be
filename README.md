@@ -16,8 +16,8 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd assignment/backend
+git clone
+cd aragon-be
 ```
 
 ### Step 2: Install Dependencies
